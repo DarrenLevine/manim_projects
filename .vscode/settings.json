@@ -1,0 +1,51 @@
+{
+    "editor.fontFamily": "'Courier New', monospace",
+    "autopep8.args": [
+        "--max-line-length=160",
+        "--ignore=E731"
+    ],
+    "editor.formatOnSave": true,
+    "manim-sideview.runOnSave": true,
+    "code-runner.enableAppInsights": false,
+    "code-runner.executorMap": {
+        "python": "cd $dir&& python3 -u $fileName || rm -f tempCodeRunnerFile.py",
+        "shellscript": "cd $dir && ./$fileName",
+    },
+    "code-runner.showExecutionMessage": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": false,
+    "cSpell.userWords": [
+        "kargs",
+        "pylance",
+        "pyplot",
+        "xlim",
+        "ylim",
+        "ndarray"
+    ],
+    "editor.formatOnSaveMode": "file",
+    "cSpell.words": [
+        "Anson",
+        "autopep",
+        "cschlosser",
+        "devcontainers",
+        "doxdocgen",
+        "formulahendry",
+        "hexeditor",
+        "jkillian",
+        "libcairo",
+        "libpango",
+        "manim",
+        "matplotlib",
+        "noninteractive",
+        "numpy",
+        "pylint",
+        "Rickaym",
+        "scipy",
+        "setuptools",
+        "sideview",
+        "texlive",
+        "toolsai",
+        "venv"
+    ]
+}
